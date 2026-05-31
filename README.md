@@ -11,15 +11,15 @@
 
 ## ✨ Features
 
-✅ **JWT Authentication** (15min Access, 30-Tage Refresh Tokens)
-✅ **Multi-Tenancy** (Automatic Query Filtering)
-✅ **Anime CRUD** (Search, Filter, Sort)
-✅ **Watchlist Management** (Plan to Watch, Watching, Completed, Dropped)
-✅ **Rating System** (1-10 Score + Comments)
-✅ **Admin Panel** (Anime Manager, Invitations)
-✅ **Professional UI** (Crunchyroll-inspired Design)
-✅ **Role-Based Access** (Admin/User)
-
+- ✅ JWT Authentication (15min Access, 30-Day Refresh Tokens)
+- ✅ Multi-Tenancy (Automatic Query Filtering)
+- ✅ Anime CRUD (Search, Filter, Sort)
+- ✅ Watchlist Management (Plan to Watch, Watching, Completed, Dropped)
+- ✅ Rating System (1-10 Score + Comments)
+- ✅ Admin Panel (Anime Manager, Invitations)
+- ✅ Professional UI (Crunchyroll-inspired Design)
+- ✅ Role-Based Access (Admin/User)
+  
 ---
 
 ## 🛠️ Tech Stack
