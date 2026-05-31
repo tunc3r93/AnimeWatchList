@@ -256,5 +256,3 @@ Indexes:
 - **Issues:** [GitHub Issues](https://github.com/tunc3r93/AnimeWatchList/issues)
 
 ---
-
-Made with ❤️ by Tuncer
