@@ -249,10 +249,3 @@ Indexes:
 | Tailwind CSS | 4.0 | Styling |
 
 ---
-
-## 📞 Support
-
-- **GitHub:** https://github.com/tunc3r93/AnimeWatchList
-- **Issues:** [GitHub Issues](https://github.com/tunc3r93/AnimeWatchList/issues)
-
----
