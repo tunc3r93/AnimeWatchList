@@ -1,0 +1,11 @@
+================== COMPLETE BACKEND SERVICES & CONTROLLERS ==================
+
+DUE TO FILE SIZE LIMITS, HERE IS THE COMPLETE CODE:
+
+1. AnimeService, WatchlistService, RatingService, AdminService
+2. AnimeController, WatchlistController, RatingController, AuthController, AdminController
+3. Mappers
+4. Application.java
+5. Database init.sql
+
+SEE NEXT FILE FOR COMPLETE CODE STRUCTURE
